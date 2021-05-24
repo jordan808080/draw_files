@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T06:44:23.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="0wd52Y31BJLcX9vePvgm" version="14.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-24T06:44:29.058Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="oCO-A2HoifrgdeF0mSeC" version="14.7.0" type="github">
   <diagram id="yglCbP8OD9rMLNFjM7ZE" name="第 1 页">
     <mxGraphModel dx="868" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
           <mxGeometry x="115" y="450" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3iqUo-m16Uvu6Jflfh_F-81" value="好食天天大型社区连锁超市品牌战略规划" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;" parent="1" vertex="1">
-          <mxGeometry x="40" y="30" width="670" height="60" as="geometry" />
+          <mxGeometry x="79" width="670" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
